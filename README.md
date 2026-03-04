@@ -2,13 +2,16 @@
 
 ## Purpose
 
-- Transform a boolean expression into a digital circuit
+The purpose of this project was to transform the given boolean expression F(A,B,C) = AB' + BC into a digital circuit.
 
 ## Navigation
 
-- TBR/ contains the logism .circ file
-- docs/ contains the truth table pdf, the circuit screenshot, and evidence of the POKE tool confirming my truth table
+- / contains the logism .circ file, **circuit.circ**
+- docs/ contains the truth table pdf, **truth-table.pdf** alongside my first draft **truth-table-rough.pdf** as well as the circuit screenshot **circuit.png**
 
 ## Submission Requirements
 
-- TT, Logism file, checked with poke tool, circuit screenshot
+- A completed truth table
+- The logism circuit
+- A screenshot of the circuit
+- All files uploaded to public github repo
